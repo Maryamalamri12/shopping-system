@@ -15,3 +15,6 @@ for amount in purchase_amounts:
     
     discounted_price = amount - (amount * discount)  
     print(f"Original Amount: {amount}, Discounted Price: {discounted_price:.2f}")
+
+
+this will expaire date 30/1/2025
